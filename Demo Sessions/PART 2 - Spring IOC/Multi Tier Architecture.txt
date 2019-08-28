@@ -1,0 +1,10 @@
+Enterprise Application Architecture-
+
+
+Multi tier architecture-
+
+-Client tier -> Browser, Standalone application or another servers
+
+-Middle tier -> Application
+
+-Data tier -> Data stores (e.g. database)

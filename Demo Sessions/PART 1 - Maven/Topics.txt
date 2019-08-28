@@ -1,0 +1,13 @@
+Maven
+Spring Framework
+	spring ioc :Preetom
+	
+	spring aop :Vijay
+	
+	spring data :Abhishek
+		jpa -> hibernate
+		
+	spring webmvc :Anusha
+		
+	
+

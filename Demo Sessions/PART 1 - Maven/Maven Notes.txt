@@ -1,0 +1,37 @@
+Maven (Follow a convention)
+
+-Build Management ("mvn install")
+
+-Dependency Management (pom.xml)
+		-dependencies
+		
+		
+		-add dependecny A 
+						-> B
+						
+MavenProjectDemo
+	src :java codes
+	pom.xml : dependencies
+	target:  .jars, .class
+	
+	src
+		main : main java code
+			java
+			resources: application-context.xml
+			webapp :
+				WEB-INF
+					views
+					web.xml
+						
+		test : unit test cases
+		
+		
+		
+MavenProject Info
+
+	<groupId>com.greatlearning</>
+		<artifactId>maven-demo</>
+			<version>1.0.0 </>
+			
+			
+		
